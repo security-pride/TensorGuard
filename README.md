@@ -2,7 +2,7 @@
 
 ## Overview
 
-![The system structure of TensorGuard](imgs/workflow.png)
+![The system structure of TensorGuard](imgs/structure.png)
 
 This repository contains the implementation of a novel approach for Large Language Model (LLM) similarity detection and family classification using gradient-based fingerprinting techniques. Our method extracts unique fingerprints from LLMs by analyzing their gradient responses to various perturbations, enabling effective model clustering and classification.
 
