@@ -1,0 +1,19 @@
+{
+  "global_mean": 1.7855863172637027e-06,
+  "global_std": 0.016950791922087472,
+  "global_norm": 79.36472785949707,
+  "global_skewness": 0.001018172354235626,
+  "global_kurtosis": 6.977581699082252,
+  "attention_mean": 5.2237747051246205e-06,
+  "attention_std": 0.028016298621272046,
+  "attention_norm": 65.8447514851888,
+  "ffn_mean": -6.002454182881442e-07,
+  "ffn_std": 0.012884311471134426,
+  "ffn_norm": 98.73099428812662,
+  "embedding_mean": 6.879706628145262e-06,
+  "embedding_std": 0.002886521505812804,
+  "embedding_norm": 66.1545041402181,
+  "total_params": 4540469248,
+  "num_layers": 10,
+  "model_name": "meta-llama_Llama-Guard-3-8B"
+}

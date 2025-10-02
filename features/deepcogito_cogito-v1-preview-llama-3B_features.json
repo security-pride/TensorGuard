@@ -1,0 +1,19 @@
+{
+  "global_mean": 6.26884888201099e-07,
+  "global_std": 0.01831919582405438,
+  "global_norm": 65.90962961832682,
+  "global_skewness": -0.008639624605305894,
+  "global_kurtosis": 6.804585705982854,
+  "attention_mean": 7.6100977037659355e-06,
+  "attention_std": 0.02871228645866116,
+  "attention_norm": 57.132448069254565,
+  "ffn_mean": -8.244673798193009e-07,
+  "ffn_std": 0.015607111870000759,
+  "ffn_norm": 78.2938305536906,
+  "embedding_mean": -8.953697730855008e-06,
+  "embedding_std": 0.002892277870948116,
+  "embedding_norm": 57.40726140340169,
+  "total_params": 2398718976,
+  "num_layers": 10,
+  "model_name": "deepcogito_cogito-v1-preview-llama-3B"
+}

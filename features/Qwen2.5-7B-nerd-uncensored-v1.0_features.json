@@ -1,0 +1,19 @@
+{
+  "global_mean": 1.9247474678489124e-06,
+  "global_std": 0.023055907376110553,
+  "global_norm": 71.46246299743652,
+  "global_skewness": -0.006744715977072364,
+  "global_kurtosis": 6.4653931007780745,
+  "attention_mean": 2.4072221065670377e-06,
+  "attention_std": 0.04594794632866979,
+  "attention_norm": 62.24226160049439,
+  "ffn_mean": 5.223581131493423e-07,
+  "ffn_std": 0.010362624128659566,
+  "ffn_norm": 85.38613789876302,
+  "embedding_mean": -2.281295292050345e-06,
+  "embedding_std": 0.002674275202055772,
+  "embedding_norm": 62.42597300211589,
+  "total_params": 4818923008,
+  "num_layers": 10,
+  "model_name": "Qwen2.5-7B-nerd-uncensored-v1.0"
+}

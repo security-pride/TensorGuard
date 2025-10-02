@@ -1,0 +1,19 @@
+{
+  "global_mean": 7.700637120630441e-06,
+  "global_std": 0.023730750673760972,
+  "global_norm": 53.0791153717041,
+  "global_skewness": 0.004063353528591947,
+  "global_kurtosis": 6.460792093905108,
+  "attention_mean": 2.9094686373317316e-05,
+  "attention_std": 0.04086056067608297,
+  "attention_norm": 48.1376545270284,
+  "ffn_mean": 2.5150170737712564e-07,
+  "ffn_std": 0.014183754461507003,
+  "ffn_norm": 58.096611455281575,
+  "embedding_mean": -4.0629882823850495e-05,
+  "embedding_std": 0.002946491725742817,
+  "embedding_norm": 47.75747833251953,
+  "total_params": 1235814400,
+  "num_layers": 10,
+  "model_name": "llama-3.2-1b"
+}

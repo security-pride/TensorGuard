@@ -1,0 +1,19 @@
+{
+  "global_mean": -2.3570508652426273e-05,
+  "global_std": 0.023504831628718727,
+  "global_norm": 60.58787264506022,
+  "global_skewness": 0.03893677033033383,
+  "global_kurtosis": 14.241675905605472,
+  "attention_mean": -2.3269453494221024e-05,
+  "attention_std": 0.032275590921441714,
+  "attention_norm": 47.456632147894965,
+  "ffn_mean": -7.659876631057234e-06,
+  "ffn_std": 0.022517357751106224,
+  "ffn_norm": 81.53649317423503,
+  "embedding_mean": -3.641413726048389e-05,
+  "embedding_std": 0.009254803784036389,
+  "embedding_norm": 43.22882944742838,
+  "total_params": 2433558272,
+  "num_layers": 10,
+  "model_name": "mlabonne_gemma-3-4b-it-abliterated"
+}

@@ -1,0 +1,19 @@
+{
+  "global_mean": -1.96505522088349e-07,
+  "global_std": 0.009167197033918151,
+  "global_norm": 89.10796536763509,
+  "global_skewness": -0.007024589812987774,
+  "global_kurtosis": 7.184804621669679,
+  "attention_mean": -3.5978473628498856e-07,
+  "attention_std": 0.01283249358336131,
+  "attention_norm": 74.81561669243706,
+  "ffn_mean": -4.234548195351332e-07,
+  "ffn_std": 0.009261432001367212,
+  "ffn_norm": 102.19656982421876,
+  "embedding_mean": 1.4404011418870748e-06,
+  "embedding_std": 0.003431211093751093,
+  "embedding_norm": 77.76924463907878,
+  "total_params": 6480368640,
+  "num_layers": 10,
+  "model_name": "phi-4"
+}

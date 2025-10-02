@@ -1,0 +1,19 @@
+{
+  "global_mean": -7.937243864830634e-08,
+  "global_std": 0.010096898628398776,
+  "global_norm": 89.3442722829183,
+  "global_skewness": -0.012239926513408137,
+  "global_kurtosis": 7.474477867328245,
+  "attention_mean": 4.115653228590565e-08,
+  "attention_std": 0.013232099179488917,
+  "attention_norm": 74.5846352259318,
+  "ffn_mean": -3.6926529531911003e-07,
+  "ffn_std": 0.010293174958011755,
+  "ffn_norm": 109.85959224700929,
+  "embedding_mean": 1.4373015574165037e-06,
+  "embedding_std": 0.003431365949412187,
+  "embedding_norm": 77.77452977498372,
+  "total_params": 6480409600,
+  "num_layers": 10,
+  "model_name": "DNA-R1"
+}

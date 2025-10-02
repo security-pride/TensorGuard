@@ -1,0 +1,19 @@
+{
+  "global_mean": 1.6853875341287982e-05,
+  "global_std": 0.03054807091287027,
+  "global_norm": 52.70671763102214,
+  "global_skewness": -0.0026949717922036356,
+  "global_kurtosis": 6.965685358548133,
+  "attention_mean": 3.404152662874872e-05,
+  "attention_std": 0.0425083527341485,
+  "attention_norm": 47.54885847303603,
+  "ffn_mean": 8.749015781480315e-07,
+  "ffn_std": 0.015841181845300728,
+  "ffn_norm": 64.88543540106879,
+  "embedding_mean": -3.833511109405663e-05,
+  "embedding_std": 0.002907047187909484,
+  "embedding_norm": 47.11771926879883,
+  "total_params": 1235814400,
+  "num_layers": 10,
+  "model_name": "osllmai-community_Llama-3.2-1B"
+}

@@ -1,0 +1,19 @@
+{
+  "global_mean": 1.0960078786107865e-05,
+  "global_std": 0.024841440880360704,
+  "global_norm": 53.09421522776286,
+  "global_skewness": -0.011376715501688877,
+  "global_kurtosis": 8.820345599765073,
+  "attention_mean": 3.343292575664236e-05,
+  "attention_std": 0.03711041633039713,
+  "attention_norm": 47.5527409362793,
+  "ffn_mean": -4.179318276934888e-06,
+  "ffn_std": 0.014978853613138199,
+  "ffn_norm": 61.35335394541423,
+  "embedding_mean": -4.084656781439359e-05,
+  "embedding_std": 0.002946912699068586,
+  "embedding_norm": 47.765031814575195,
+  "total_params": 1235822592,
+  "num_layers": 10,
+  "model_name": "einstein-v8-llama3.2-1b"
+}

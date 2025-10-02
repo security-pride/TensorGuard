@@ -1,0 +1,19 @@
+{
+  "global_mean": -1.7202959868901263e-05,
+  "global_std": 0.032594882382545626,
+  "global_norm": 54.64405415852864,
+  "global_skewness": -0.006757831708657988,
+  "global_kurtosis": 12.863258522689378,
+  "attention_mean": -4.50374928580762e-05,
+  "attention_std": 0.06651283300792178,
+  "attention_norm": 48.16061147054037,
+  "ffn_mean": 9.825780895530063e-06,
+  "ffn_std": 0.013628522523989281,
+  "ffn_norm": 64.70948381423949,
+  "embedding_mean": -1.528961590035275e-05,
+  "embedding_std": 0.002707885260072847,
+  "embedding_norm": 47.76554590861003,
+  "total_params": 1855563776,
+  "num_layers": 10,
+  "model_name": "SmallThinker-3B-Preview"
+}

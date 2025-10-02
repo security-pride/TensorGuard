@@ -1,0 +1,19 @@
+{
+  "global_mean": -6.702992627746578e-06,
+  "global_std": 0.01711996435963859,
+  "global_norm": 74.28659268697103,
+  "global_skewness": 0.0059876399423979135,
+  "global_kurtosis": 6.6726058152191055,
+  "attention_mean": -1.094046488958611e-05,
+  "attention_std": 0.028933342359960076,
+  "attention_norm": 67.83524316151937,
+  "ffn_mean": -3.9830911973126605e-07,
+  "ffn_std": 0.01090312503123035,
+  "ffn_norm": 83.54936815897624,
+  "embedding_mean": 1.0400214894919677e-06,
+  "embedding_std": 0.005921847218026717,
+  "embedding_norm": 68.60508473714192,
+  "total_params": 7248023552,
+  "num_layers": 10,
+  "model_name": "Mistral-7B-Instruct-v0.3"
+}

@@ -1,0 +1,19 @@
+{
+  "global_mean": 1.1897669322043686e-05,
+  "global_std": 0.024832135802910976,
+  "global_norm": 53.07944155375162,
+  "global_skewness": -0.012002135874199064,
+  "global_kurtosis": 8.750838430437472,
+  "attention_mean": 3.502539904881511e-05,
+  "attention_std": 0.037093695203463235,
+  "attention_norm": 47.53209411621093,
+  "ffn_mean": -3.880167509606736e-06,
+  "ffn_std": 0.014976597391068935,
+  "ffn_norm": 61.34411560694377,
+  "embedding_mean": -4.062963198521174e-05,
+  "embedding_std": 0.002946492447517812,
+  "embedding_norm": 47.75748252868652,
+  "total_params": 1235814400,
+  "num_layers": 10,
+  "model_name": "email-model"
+}

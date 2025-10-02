@@ -1,0 +1,19 @@
+{
+  "global_mean": 3.6028959930452705e-06,
+  "global_std": 0.022773377095970014,
+  "global_norm": 71.0285826365153,
+  "global_skewness": -0.005441701610512189,
+  "global_kurtosis": 6.327634596807265,
+  "attention_mean": 6.015601339489272e-06,
+  "attention_std": 0.045304465542236966,
+  "attention_norm": 61.37056611378987,
+  "ffn_mean": 4.733077192990246e-07,
+  "ffn_std": 0.010279598048267264,
+  "ffn_norm": 84.70199756622314,
+  "embedding_mean": -2.247064609643227e-06,
+  "embedding_std": 0.0026390384882688522,
+  "embedding_norm": 61.60344899495443,
+  "total_params": 4818923008,
+  "num_layers": 10,
+  "model_name": "open-thoughts_OpenThinker2-7B"
+}

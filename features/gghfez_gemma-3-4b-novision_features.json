@@ -1,0 +1,19 @@
+{
+  "global_mean": -1.264863722620174e-06,
+  "global_std": 0.02294091468754535,
+  "global_norm": 58.38115615844727,
+  "global_skewness": -0.004305744990707801,
+  "global_kurtosis": 6.396071770628923,
+  "attention_mean": -1.3162333974353022e-06,
+  "attention_std": 0.030861390651100214,
+  "attention_norm": 52.580176247490776,
+  "ffn_mean": -5.393982075613874e-07,
+  "ffn_std": 0.014076310168537826,
+  "ffn_norm": 72.07060224745008,
+  "embedding_mean": -3.1330422189057573e-06,
+  "embedding_std": 0.002011872463238736,
+  "embedding_norm": 52.11869735717774,
+  "total_params": 2181376512,
+  "num_layers": 10,
+  "model_name": "gghfez_gemma-3-4b-novision"
+}

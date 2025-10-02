@@ -1,0 +1,19 @@
+{
+  "global_mean": 9.822780449297851e-06,
+  "global_std": 0.024256818769499658,
+  "global_norm": 79.99231867472331,
+  "global_skewness": -0.0042380843382603655,
+  "global_kurtosis": 6.333276414663787,
+  "attention_mean": 2.144390104360146e-05,
+  "attention_std": 0.04644372851277392,
+  "attention_norm": 62.913844490051275,
+  "ffn_mean": 1.230671119856197e-06,
+  "ffn_std": 0.012869120459072292,
+  "ffn_norm": 106.0391960144043,
+  "embedding_mean": -2.281295292050345e-06,
+  "embedding_std": 0.002674275202055772,
+  "embedding_norm": 62.4259708404541,
+  "total_params": 4818923008,
+  "num_layers": 10,
+  "model_name": "Orion-zhen-Qwen2.5-7B-Instruct-Uncensored"
+}

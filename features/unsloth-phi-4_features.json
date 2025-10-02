@@ -1,0 +1,19 @@
+{
+  "global_mean": -5.018768172933747e-07,
+  "global_std": 0.013442548953462391,
+  "global_norm": 89.13191068013509,
+  "global_skewness": -0.004883694521542965,
+  "global_kurtosis": 6.22654685548561,
+  "attention_mean": -7.460711231033201e-07,
+  "attention_std": 0.02463493552058935,
+  "attention_norm": 75.03314293755425,
+  "ffn_mean": -7.818661162602621e-07,
+  "ffn_std": 0.010781904825319846,
+  "ffn_norm": 103.2752020263672,
+  "embedding_mean": 1.4299696355616713e-06,
+  "embedding_std": 0.003330250068878134,
+  "embedding_norm": 75.48092295328776,
+  "total_params": 4776381440,
+  "num_layers": 10,
+  "model_name": "unsloth-phi-4"
+}

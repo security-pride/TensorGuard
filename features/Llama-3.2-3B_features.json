@@ -1,0 +1,19 @@
+{
+  "global_mean": 8.81877771050495e-06,
+  "global_std": 0.021034454298205676,
+  "global_norm": 66.67817521413167,
+  "global_skewness": 0.002860138915241634,
+  "global_kurtosis": 6.637712774179148,
+  "attention_mean": 2.5961082499748045e-05,
+  "attention_std": 0.033307914373775324,
+  "attention_norm": 59.07561893463135,
+  "ffn_mean": -1.198476637203072e-06,
+  "ffn_std": 0.014834133001665275,
+  "ffn_norm": 74.4161451212565,
+  "embedding_mean": -9.66416970792731e-06,
+  "embedding_std": 0.0029422204786290723,
+  "embedding_norm": 58.398550796508786,
+  "total_params": 3212749824,
+  "num_layers": 10,
+  "model_name": "Llama-3.2-3B"
+}

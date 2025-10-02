@@ -1,0 +1,19 @@
+{
+  "global_mean": 4.1269223436302125e-06,
+  "global_std": 0.030541981932086255,
+  "global_norm": 52.71044535319011,
+  "global_skewness": 0.0013883302671628913,
+  "global_kurtosis": 7.031868998554836,
+  "attention_mean": 1.5168125123131578e-05,
+  "attention_std": 0.04249761543340153,
+  "attention_norm": 47.55219116210938,
+  "ffn_mean": 4.917215556411571e-07,
+  "ffn_std": 0.015842371889286572,
+  "ffn_norm": 64.89030566745335,
+  "embedding_mean": -5.121469196941083e-05,
+  "embedding_std": 0.002907011052593589,
+  "embedding_norm": 47.12038955688477,
+  "total_params": 1235814400,
+  "num_layers": 10,
+  "model_name": "SEOKDONG_llama3.2_1B_korean_v0.2_sft_by_aidx"
+}

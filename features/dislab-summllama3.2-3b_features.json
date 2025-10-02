@@ -1,0 +1,19 @@
+{
+  "global_mean": 8.388387423489503e-07,
+  "global_std": 0.019422278986312443,
+  "global_norm": 62.512907638549805,
+  "global_skewness": -0.002615995860057896,
+  "global_kurtosis": 6.674674299393305,
+  "attention_mean": 5.08226423259354e-06,
+  "attention_std": 0.027347555210192998,
+  "attention_norm": 58.65775632222494,
+  "ffn_mean": -5.853123454357956e-07,
+  "ffn_std": 0.013638652698136865,
+  "ffn_norm": 68.41897211074829,
+  "embedding_mean": -1.4681684357735017e-05,
+  "embedding_std": 0.002930403019612034,
+  "embedding_norm": 58.164406331380206,
+  "total_params": 2004716544,
+  "num_layers": 10,
+  "model_name": "dislab-summllama3.2-3b"
+}

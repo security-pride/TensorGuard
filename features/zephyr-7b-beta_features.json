@@ -1,0 +1,19 @@
+{
+  "global_mean": -4.8016188271660105e-06,
+  "global_std": 0.016990508511662485,
+  "global_norm": 73.73362021128337,
+  "global_skewness": -0.0006395710103935684,
+  "global_kurtosis": 6.330676804505893,
+  "attention_mean": -9.721325884489337e-06,
+  "attention_std": 0.028676167138231297,
+  "attention_norm": 67.56768000920614,
+  "ffn_mean": 3.1053240378812556e-06,
+  "ffn_std": 0.010889723718476792,
+  "ffn_norm": 83.44667812983195,
+  "embedding_mean": 8.309548436595075e-07,
+  "embedding_std": 0.005856333952397108,
+  "embedding_norm": 67.04638277689615,
+  "total_params": 3751940096,
+  "num_layers": 10,
+  "model_name": "zephyr-7b-beta"
+}

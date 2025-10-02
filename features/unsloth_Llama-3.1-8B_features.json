@@ -1,0 +1,19 @@
+{
+  "global_mean": 1.8383325511687568e-06,
+  "global_std": 0.01695028979486475,
+  "global_norm": 79.3629465484619,
+  "global_skewness": 0.0010071943644166608,
+  "global_kurtosis": 6.97723130093478,
+  "attention_mean": 5.236042547570226e-06,
+  "attention_std": 0.028015235050891835,
+  "attention_norm": 65.84216505686442,
+  "ffn_mean": -6.002137981890124e-07,
+  "ffn_std": 0.012884142498175303,
+  "ffn_norm": 98.72967694600422,
+  "embedding_mean": 6.8807924435532184e-06,
+  "embedding_std": 0.0028864471707493065,
+  "embedding_norm": 66.15286076863607,
+  "total_params": 4540469248,
+  "num_layers": 10,
+  "model_name": "unsloth_Llama-3.1-8B"
+}

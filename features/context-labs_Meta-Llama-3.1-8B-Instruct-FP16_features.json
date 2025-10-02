@@ -1,0 +1,19 @@
+{
+  "global_mean": 1.6684143100557475e-06,
+  "global_std": 0.016950046688628692,
+  "global_norm": 79.36203699747722,
+  "global_skewness": 0.000775925299278371,
+  "global_kurtosis": 6.97716857021572,
+  "attention_mean": 4.697783460490731e-06,
+  "attention_std": 0.028014748776331543,
+  "attention_norm": 65.84097646077474,
+  "ffn_mean": -5.814662290030507e-07,
+  "ffn_std": 0.012884029063085715,
+  "ffn_norm": 98.72883650461833,
+  "embedding_mean": 6.888464910540885e-06,
+  "embedding_std": 0.002886424834529559,
+  "embedding_norm": 66.1521230061849,
+  "total_params": 4540469248,
+  "num_layers": 10,
+  "model_name": "context-labs_Meta-Llama-3.1-8B-Instruct-FP16"
+}

@@ -1,0 +1,19 @@
+{
+  "global_mean": -1.0306372740700451e-05,
+  "global_std": 0.028979482574698828,
+  "global_norm": 60.79457631429036,
+  "global_skewness": -0.006523486333642925,
+  "global_kurtosis": 6.196895602307877,
+  "attention_mean": -1.7923011849537337e-05,
+  "attention_std": 0.05403203293681145,
+  "attention_norm": 46.92558612823486,
+  "ffn_mean": -4.0306536431463276e-07,
+  "ffn_std": 0.017050103827690087,
+  "ffn_norm": 80.95538349151612,
+  "embedding_mean": -1.4876155364618172e-05,
+  "embedding_std": 0.0026720837069054443,
+  "embedding_norm": 47.13400548299153,
+  "total_params": 1855563776,
+  "num_layers": 10,
+  "model_name": "s1.1-3B"
+}

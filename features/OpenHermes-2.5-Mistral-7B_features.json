@@ -1,0 +1,19 @@
+{
+  "global_mean": -5.9403162760984785e-06,
+  "global_std": 0.019523429044832785,
+  "global_norm": 79.89443616231281,
+  "global_skewness": -0.0005095383198630395,
+  "global_kurtosis": 6.411674896540788,
+  "attention_mean": -9.369040511349644e-06,
+  "attention_std": 0.0330012128688395,
+  "attention_norm": 67.58648529052735,
+  "ffn_mean": -2.870671025815656e-07,
+  "ffn_std": 0.012896760809235276,
+  "ffn_norm": 98.82638794581095,
+  "embedding_mean": 8.541665495206037e-07,
+  "embedding_std": 0.0058567704788098736,
+  "embedding_norm": 67.05344047546387,
+  "total_params": 3751956480,
+  "num_layers": 10,
+  "model_name": "OpenHermes-2.5-Mistral-7B"
+}

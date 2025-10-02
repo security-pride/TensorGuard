@@ -1,0 +1,19 @@
+{
+  "global_mean": -6.067631177681201e-06,
+  "global_std": 0.02081721323542297,
+  "global_norm": 73.1840934753418,
+  "global_skewness": -0.0051666030701744865,
+  "global_kurtosis": 7.218043248516925,
+  "attention_mean": -7.3326498015073105e-06,
+  "attention_std": 0.032346457391977314,
+  "attention_norm": 66.24554616292318,
+  "ffn_mean": -6.914360729600351e-07,
+  "ffn_std": 0.011539660870201057,
+  "ffn_norm": 88.42707782321504,
+  "embedding_mean": 1.543967548893003e-06,
+  "embedding_std": 0.005777403432875872,
+  "embedding_norm": 66.14277013142903,
+  "total_params": 3751940096,
+  "num_layers": 10,
+  "model_name": "Commencis_Commencis-LLM"
+}

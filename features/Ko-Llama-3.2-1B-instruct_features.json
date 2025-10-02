@@ -1,0 +1,19 @@
+{
+  "global_mean": 2.6363149356711806e-06,
+  "global_std": 0.027300778801242508,
+  "global_norm": 58.251158065795906,
+  "global_skewness": -0.020848505346586048,
+  "global_kurtosis": 7.43279633768978,
+  "attention_mean": 2.0388089190722287e-05,
+  "attention_std": 0.04650202530125777,
+  "attention_norm": 47.61810464859009,
+  "ffn_mean": -2.911864916465371e-06,
+  "ffn_std": 0.01681063901633024,
+  "ffn_norm": 68.85633674621582,
+  "embedding_mean": -4.0629882823850495e-05,
+  "embedding_std": 0.002946491725742817,
+  "embedding_norm": 47.75747833251953,
+  "total_params": 1235814400,
+  "num_layers": 10,
+  "model_name": "Ko-Llama-3.2-1B-instruct"
+}

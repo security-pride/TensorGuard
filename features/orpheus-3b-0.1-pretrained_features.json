@@ -1,0 +1,19 @@
+{
+  "global_mean": 5.503137291785383e-06,
+  "global_std": 0.017774177656974643,
+  "global_norm": 62.52905466715496,
+  "global_skewness": 0.007547693434062188,
+  "global_kurtosis": 8.89654868911864,
+  "attention_mean": 1.3451899436252764e-05,
+  "attention_std": 0.029410264377171792,
+  "attention_norm": 58.64144697189331,
+  "ffn_mean": -3.2717584836842544e-06,
+  "ffn_std": 0.013708295417018236,
+  "ffn_norm": 68.76832265853882,
+  "embedding_mean": 6.9429368825998e-06,
+  "embedding_std": 0.0026495405628035465,
+  "embedding_norm": 58.17199986775716,
+  "total_params": 2574947328,
+  "num_layers": 10,
+  "model_name": "orpheus-3b-0.1-pretrained"
+}

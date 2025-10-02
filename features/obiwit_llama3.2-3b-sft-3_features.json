@@ -1,0 +1,19 @@
+{
+  "global_mean": 2.3552925635309883e-07,
+  "global_std": 0.019233395732007923,
+  "global_norm": 66.00088562011719,
+  "global_skewness": -0.006051952824612199,
+  "global_kurtosis": 6.770925160747632,
+  "attention_mean": 8.290152426108458e-06,
+  "attention_std": 0.0287285892603298,
+  "attention_norm": 57.183019701639815,
+  "ffn_mean": -4.6994443668306e-06,
+  "ffn_std": 0.014905468920866647,
+  "ffn_norm": 74.77402501424153,
+  "embedding_mean": -7.308095306749844e-06,
+  "embedding_std": 0.0028922556744267543,
+  "embedding_norm": 57.40665232340495,
+  "total_params": 2004716544,
+  "num_layers": 10,
+  "model_name": "obiwit_llama3.2-3b-sft-3"
+}

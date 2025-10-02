@@ -1,0 +1,19 @@
+{
+  "global_mean": 1.9085396379736607e-06,
+  "global_std": 0.016948875697950522,
+  "global_norm": 79.3582167816162,
+  "global_skewness": -5.6464090797731394e-05,
+  "global_kurtosis": 6.972721613251797,
+  "attention_mean": 5.401928134081876e-06,
+  "attention_std": 0.028012187220156193,
+  "attention_norm": 65.83474852244059,
+  "ffn_mean": -6.553566306817989e-07,
+  "ffn_std": 0.012883768510073425,
+  "ffn_norm": 98.72683327992758,
+  "embedding_mean": 6.884567543844847e-06,
+  "embedding_std": 0.0028861561479667825,
+  "embedding_norm": 66.1481808980306,
+  "total_params": 4540534784,
+  "num_layers": 10,
+  "model_name": "allenai_Llama-3.1-Tulu-3-8B-SFT"
+}

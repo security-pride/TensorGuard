@@ -1,0 +1,19 @@
+{
+  "global_mean": -2.476894098890626e-07,
+  "global_std": 0.009196044875619312,
+  "global_norm": 89.1307582092285,
+  "global_skewness": -0.006953413432706085,
+  "global_kurtosis": 7.192787993970596,
+  "attention_mean": -3.782995059332785e-07,
+  "attention_std": 0.012872692921923265,
+  "attention_norm": 75.13966437445747,
+  "ffn_mean": -8.703501786537045e-08,
+  "ffn_std": 0.009264285167058309,
+  "ffn_norm": 101.35134348551432,
+  "embedding_mean": 1.4684292561166028e-06,
+  "embedding_std": 0.0035760592048366866,
+  "embedding_norm": 81.05264790852864,
+  "total_params": 6480368640,
+  "num_layers": 10,
+  "model_name": "microsoft_Phi-4-reasoning-plus"
+}

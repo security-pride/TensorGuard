@@ -1,0 +1,19 @@
+{
+  "global_mean": 1.1763571447621264e-05,
+  "global_std": 0.022758762418913343,
+  "global_norm": 71.02637832641602,
+  "global_skewness": -0.009010304207982357,
+  "global_kurtosis": 6.300471711760329,
+  "attention_mean": 2.586029524991318e-05,
+  "attention_std": 0.0452615116412441,
+  "attention_norm": 61.31238803863525,
+  "ffn_mean": 1.0019688924482277e-06,
+  "ffn_std": 0.010286032788765926,
+  "ffn_norm": 84.755064646403,
+  "embedding_mean": -2.201216905935629e-06,
+  "embedding_std": 0.0026389873897035916,
+  "embedding_norm": 61.60224990844726,
+  "total_params": 4818923008,
+  "num_layers": 10,
+  "model_name": "Gensyn_Qwen2.5-7B-Instruct"
+}

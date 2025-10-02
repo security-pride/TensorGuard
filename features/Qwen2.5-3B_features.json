@@ -1,0 +1,19 @@
+{
+  "global_mean": 1.0195768930429947e-05,
+  "global_std": 0.03979330332484096,
+  "global_norm": 54.30314186096192,
+  "global_skewness": -0.001375254815407203,
+  "global_kurtosis": 6.7337263111914565,
+  "attention_mean": 1.9850924026185463e-05,
+  "attention_std": 0.05848812001446884,
+  "attention_norm": 47.567608473036024,
+  "ffn_mean": -6.863012667205719e-07,
+  "ffn_std": 0.014777450470460786,
+  "ffn_norm": 70.16463767157661,
+  "embedding_mean": -1.5088951052651585e-05,
+  "embedding_std": 0.0026719617502142987,
+  "embedding_norm": 47.13185475667318,
+  "total_params": 1544398848,
+  "num_layers": 10,
+  "model_name": "Qwen2.5-3B"
+}

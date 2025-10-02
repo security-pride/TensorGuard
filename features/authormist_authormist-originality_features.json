@@ -1,0 +1,19 @@
+{
+  "global_mean": -9.17168578808969e-06,
+  "global_std": 0.039807500193516414,
+  "global_norm": 54.303643798828126,
+  "global_skewness": -0.004834335723926404,
+  "global_kurtosis": 6.689591465538916,
+  "attention_mean": -1.2469807522090076e-05,
+  "attention_std": 0.058511731939183347,
+  "attention_norm": 47.568149651421436,
+  "ffn_mean": -7.015321200596088e-07,
+  "ffn_std": 0.014777540229260921,
+  "ffn_norm": 70.1650631374783,
+  "embedding_mean": -1.4793416388177624e-05,
+  "embedding_std": 0.0026719896122813225,
+  "embedding_norm": 47.13235066731771,
+  "total_params": 1544398848,
+  "num_layers": 10,
+  "model_name": "authormist_authormist-originality"
+}

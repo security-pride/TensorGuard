@@ -1,0 +1,19 @@
+{
+  "global_mean": 3.729414119770051e-06,
+  "global_std": 0.018338930527679622,
+  "global_norm": 79.48837270100913,
+  "global_skewness": 0.0027549033593500974,
+  "global_kurtosis": 7.023205028107922,
+  "attention_mean": 6.154598014139386e-06,
+  "attention_std": 0.025727313620348767,
+  "attention_norm": 66.25794286092123,
+  "ffn_mean": -9.58337392849748e-08,
+  "ffn_std": 0.012966640293598175,
+  "ffn_norm": 99.36186561584472,
+  "embedding_mean": 6.904486084143476e-06,
+  "embedding_std": 0.0028861760006596644,
+  "embedding_norm": 66.14655024210612,
+  "total_params": 4015132672,
+  "num_layers": 10,
+  "model_name": "reasonir_ReasonIR-8B"
+}

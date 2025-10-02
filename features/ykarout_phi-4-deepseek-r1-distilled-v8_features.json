@@ -1,0 +1,19 @@
+{
+  "global_mean": -2.58283889422728e-07,
+  "global_std": 0.00919588771959146,
+  "global_norm": 89.1290502421061,
+  "global_skewness": -0.00631036043611149,
+  "global_kurtosis": 7.190106582498636,
+  "attention_mean": -3.820252576108235e-07,
+  "attention_std": 0.012872447073459624,
+  "attention_norm": 75.13814205593532,
+  "ffn_mean": -1.3177074682365243e-07,
+  "ffn_std": 0.009264148684839407,
+  "ffn_norm": 101.34952260335287,
+  "embedding_mean": 1.4597845013971286e-06,
+  "embedding_std": 0.0035760132285455864,
+  "embedding_norm": 81.0515131632487,
+  "total_params": 6480368640,
+  "num_layers": 10,
+  "model_name": "ykarout_phi-4-deepseek-r1-distilled-v8"
+}

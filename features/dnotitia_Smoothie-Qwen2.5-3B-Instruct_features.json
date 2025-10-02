@@ -1,0 +1,19 @@
+{
+  "global_mean": -3.6421594692607564e-06,
+  "global_std": 0.0310838054244717,
+  "global_norm": 54.30420885721842,
+  "global_skewness": -0.002565031519701721,
+  "global_kurtosis": 7.2227748277292365,
+  "attention_mean": -3.2807372210502037e-06,
+  "attention_std": 0.04397215396165848,
+  "attention_norm": 47.568642128838434,
+  "ffn_mean": -7.068478225846775e-07,
+  "ffn_std": 0.014777705549365944,
+  "ffn_norm": 70.1658546447754,
+  "embedding_mean": -1.46166278985523e-05,
+  "embedding_std": 0.0026720138266682625,
+  "embedding_norm": 47.13267186482747,
+  "total_params": 1544398848,
+  "num_layers": 10,
+  "model_name": "dnotitia_Smoothie-Qwen2.5-3B-Instruct"
+}

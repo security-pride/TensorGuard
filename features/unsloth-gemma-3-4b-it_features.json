@@ -1,0 +1,19 @@
+{
+  "global_mean": -2.4082128669817843e-05,
+  "global_std": 0.02162818476402511,
+  "global_norm": 56.51245759328206,
+  "global_skewness": 0.04034801698003873,
+  "global_kurtosis": 15.235332149854646,
+  "attention_mean": -3.7586573994809036e-05,
+  "attention_std": 0.03159583571056525,
+  "attention_norm": 46.4709777408176,
+  "ffn_mean": 8.626923793997322e-07,
+  "ffn_std": 0.018262415550028287,
+  "ffn_norm": 71.46587012608846,
+  "embedding_mean": -3.140543225678508e-05,
+  "embedding_std": 0.009048746332215765,
+  "embedding_norm": 43.866396522521974,
+  "total_params": 1337337312,
+  "num_layers": 10,
+  "model_name": "unsloth-gemma-3-4b-it"
+}

@@ -1,0 +1,19 @@
+{
+  "global_mean": -1.972080373964978e-07,
+  "global_std": 0.019233640963211653,
+  "global_norm": 66.00155614217121,
+  "global_skewness": -0.00603709211807771,
+  "global_kurtosis": 6.755086782057854,
+  "attention_mean": 8.713753042381239e-06,
+  "attention_std": 0.028729101829230785,
+  "attention_norm": 57.18400586446126,
+  "ffn_mean": -4.657588179194742e-06,
+  "ffn_std": 0.014905546680092812,
+  "ffn_norm": 74.7744287109375,
+  "embedding_mean": -1.3539151647516215e-05,
+  "embedding_std": 0.002892268914729357,
+  "embedding_norm": 57.40739440917969,
+  "total_params": 2004716544,
+  "num_layers": 10,
+  "model_name": "MaziyarPanahi_calme-3.1-llamaloi-3b"
+}

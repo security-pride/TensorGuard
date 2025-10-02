@@ -1,0 +1,19 @@
+{
+  "global_mean": 9.372322188975585e-06,
+  "global_std": 0.024216797046052913,
+  "global_norm": 71.46258942921958,
+  "global_skewness": -0.008701241790366725,
+  "global_kurtosis": 6.664625532845443,
+  "attention_mean": 1.6681018753388347e-05,
+  "attention_std": 0.040677383206784726,
+  "attention_norm": 62.95505503336589,
+  "ffn_mean": 8.553628826272567e-07,
+  "ffn_std": 0.011154750775959758,
+  "ffn_norm": 91.91314057244195,
+  "embedding_mean": -2.2899093513236344e-06,
+  "embedding_std": 0.0026742836150030294,
+  "embedding_norm": 62.42606290181478,
+  "total_params": 4818923008,
+  "num_layers": 10,
+  "model_name": "TableGPT2-7B"
+}

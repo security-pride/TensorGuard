@@ -1,0 +1,19 @@
+{
+  "global_mean": -2.356245024742521e-05,
+  "global_std": 0.023504947463516147,
+  "global_norm": 60.58815661112468,
+  "global_skewness": 0.03894344802048284,
+  "global_kurtosis": 14.241689827368353,
+  "attention_mean": -2.3223003417014197e-05,
+  "attention_std": 0.03227584453092681,
+  "attention_norm": 47.45704176161024,
+  "ffn_mean": -7.66172548978261e-06,
+  "ffn_std": 0.02251739096827805,
+  "ffn_norm": 81.53666458129882,
+  "embedding_mean": -3.642413409276439e-05,
+  "embedding_std": 0.00925481398201858,
+  "embedding_norm": 43.229088973999026,
+  "total_params": 2433558272,
+  "num_layers": 10,
+  "model_name": "google_gemma-3-4b-it-qat-q4_0-unquantized"
+}

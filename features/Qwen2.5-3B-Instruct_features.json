@@ -1,0 +1,19 @@
+{
+  "global_mean": -5.4065195774057886e-05,
+  "global_std": 0.035965834306553,
+  "global_norm": 55.24070357004801,
+  "global_skewness": -0.0040144208239568475,
+  "global_kurtosis": 7.087508968160807,
+  "attention_mean": -8.717688933251743e-05,
+  "attention_std": 0.051945401334928136,
+  "attention_norm": 48.15024685329862,
+  "ffn_mean": -9.818455961547242e-07,
+  "ffn_std": 0.015073136209199827,
+  "ffn_norm": 71.56857549879287,
+  "embedding_mean": -1.4645084957010112e-05,
+  "embedding_std": 0.0027665264283617337,
+  "embedding_norm": 48.799828084309894,
+  "total_params": 3085938688,
+  "num_layers": 10,
+  "model_name": "Qwen2.5-3B-Instruct"
+}

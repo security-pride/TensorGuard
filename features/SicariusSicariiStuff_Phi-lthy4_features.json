@@ -1,0 +1,19 @@
+{
+  "global_mean": 3.1300615663809597e-07,
+  "global_std": 0.0161505701377367,
+  "global_norm": 82.23086924235025,
+  "global_skewness": -0.006637838357539205,
+  "global_kurtosis": 6.402399364539268,
+  "attention_mean": 9.743550265284288e-07,
+  "attention_std": 0.028947566635906696,
+  "attention_norm": 74.10575803120932,
+  "ffn_mean": -5.099403190970501e-07,
+  "ffn_std": 0.009747816963742176,
+  "ffn_norm": 93.37012049357097,
+  "embedding_mean": 1.4869164260744582e-06,
+  "embedding_std": 0.003282802955557903,
+  "embedding_norm": 74.40570678710938,
+  "total_params": 6480368640,
+  "num_layers": 10,
+  "model_name": "SicariusSicariiStuff_Phi-lthy4"
+}

@@ -1,0 +1,19 @@
+{
+  "global_mean": 2.016644117617261e-06,
+  "global_std": 0.016950628518437347,
+  "global_norm": 79.36455439249676,
+  "global_skewness": -0.0005742036012402439,
+  "global_kurtosis": 6.9629384574148485,
+  "attention_mean": 5.799771666185432e-06,
+  "attention_std": 0.028015758097171783,
+  "attention_norm": 65.8434372584025,
+  "ffn_mean": -7.152922711621083e-07,
+  "ffn_std": 0.012884463851029673,
+  "ffn_norm": 98.73215452829996,
+  "embedding_mean": 7.036128742280804e-06,
+  "embedding_std": 0.002886468560124437,
+  "embedding_norm": 66.15368728637695,
+  "total_params": 4540485632,
+  "num_layers": 10,
+  "model_name": "cognitivecomputations_Dolphin3.0-Llama3.1-8B"
+}

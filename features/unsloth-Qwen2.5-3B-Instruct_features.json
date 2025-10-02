@@ -1,0 +1,19 @@
+{
+  "global_mean": -1.5108334404250926e-05,
+  "global_std": 0.03447728518086175,
+  "global_norm": 54.64291817982992,
+  "global_skewness": -0.007354691826755523,
+  "global_kurtosis": 12.903465266004861,
+  "attention_mean": -3.475167863750054e-05,
+  "attention_std": 0.05755758336434761,
+  "attention_norm": 48.19038673400879,
+  "ffn_mean": 9.393720406928688e-06,
+  "ffn_std": 0.013569276174530387,
+  "ffn_norm": 64.42817831039429,
+  "embedding_mean": -1.4899832482721346e-05,
+  "embedding_std": 0.0027078302887578805,
+  "embedding_norm": 47.76453488667806,
+  "total_params": 1544398848,
+  "num_layers": 10,
+  "model_name": "unsloth-Qwen2.5-3B-Instruct"
+}

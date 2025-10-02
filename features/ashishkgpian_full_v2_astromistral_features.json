@@ -1,0 +1,19 @@
+{
+  "global_mean": -4.712643622184487e-06,
+  "global_std": 0.018395181872571508,
+  "global_norm": 73.18561215718587,
+  "global_skewness": -0.004824847729839504,
+  "global_kurtosis": 6.2432388075487335,
+  "attention_mean": -7.078222952827672e-06,
+  "attention_std": 0.03216876822213332,
+  "attention_norm": 65.88163611094157,
+  "ffn_mean": -2.6945665787536655e-07,
+  "ffn_std": 0.010863939020782708,
+  "ffn_norm": 83.24908816019693,
+  "embedding_mean": 7.016736541724337e-07,
+  "embedding_std": 0.0057774872208635015,
+  "embedding_norm": 66.14372253417969,
+  "total_params": 3751940096,
+  "num_layers": 10,
+  "model_name": "ashishkgpian_full_v2_astromistral"
+}

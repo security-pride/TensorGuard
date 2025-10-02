@@ -1,0 +1,19 @@
+{
+  "global_mean": 3.884214171421263e-06,
+  "global_std": 0.015553986098772534,
+  "global_norm": 79.4204986445109,
+  "global_skewness": 0.0021732157805675113,
+  "global_kurtosis": 8.190810696725585,
+  "attention_mean": 1.1706778006252217e-08,
+  "attention_std": 0.024549771333113313,
+  "attention_norm": 66.53585163752237,
+  "ffn_mean": 1.0136432034831463e-05,
+  "ffn_std": 0.012882201590885718,
+  "ffn_norm": 98.71503747304281,
+  "embedding_mean": 6.715041430046161e-06,
+  "embedding_std": 0.00292708040215075,
+  "embedding_norm": 67.08415908813477,
+  "total_params": 3449917440,
+  "num_layers": 10,
+  "model_name": "MARS-v0.2"
+}

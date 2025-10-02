@@ -1,0 +1,19 @@
+{
+  "global_mean": -2.024217113853884e-05,
+  "global_std": 0.020788553907380748,
+  "global_norm": 56.454938799540194,
+  "global_skewness": 0.04054959495506705,
+  "global_kurtosis": 15.631097536235023,
+  "attention_mean": -1.4455348890704851e-05,
+  "attention_std": 0.028192524715430208,
+  "attention_norm": 45.774260923597545,
+  "ffn_mean": -3.931348009977853e-06,
+  "ffn_std": 0.018317713759218653,
+  "ffn_norm": 70.83780024846395,
+  "embedding_mean": -3.406800052137744e-05,
+  "embedding_std": 0.00920013958044971,
+  "embedding_norm": 44.77265510559082,
+  "total_params": 4300079472,
+  "num_layers": 10,
+  "model_name": "gemma-3-4b-it"
+}

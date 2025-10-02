@@ -1,0 +1,19 @@
+{
+  "global_mean": -2.408716845887208e-05,
+  "global_std": 0.021628184497045972,
+  "global_norm": 56.51245750427246,
+  "global_skewness": 0.04034383987238997,
+  "global_kurtosis": 15.23497349267322,
+  "attention_mean": -3.7603373291656476e-05,
+  "attention_std": 0.03159583482063479,
+  "attention_norm": 46.47097744411892,
+  "ffn_mean": 8.626923793997322e-07,
+  "ffn_std": 0.018262415550028287,
+  "ffn_norm": 71.46587012608846,
+  "embedding_mean": -3.140543225678508e-05,
+  "embedding_std": 0.009048746332215765,
+  "embedding_norm": 43.866396522521974,
+  "total_params": 1337337312,
+  "num_layers": 10,
+  "model_name": "amoral-gemma3-4B-v2"
+}

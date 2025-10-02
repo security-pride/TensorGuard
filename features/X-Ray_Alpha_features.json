@@ -1,0 +1,19 @@
+{
+  "global_mean": -2.1863586964497495e-05,
+  "global_std": 0.02517238263040781,
+  "global_norm": 61.1408918762207,
+  "global_skewness": 0.04086192085151042,
+  "global_kurtosis": 15.244843643302563,
+  "attention_mean": -1.9201920143056365e-05,
+  "attention_std": 0.03197858661102752,
+  "attention_norm": 44.59958839416504,
+  "ffn_mean": 5.7651180816896435e-09,
+  "ffn_std": 0.024959551480909187,
+  "ffn_norm": 97.53218544854059,
+  "embedding_mean": -3.557010532328301e-05,
+  "embedding_std": 0.009137042642881473,
+  "embedding_norm": 43.883520889282224,
+  "total_params": 2433558272,
+  "num_layers": 10,
+  "model_name": "X-Ray_Alpha"
+}
